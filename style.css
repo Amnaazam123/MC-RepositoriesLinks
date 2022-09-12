@@ -1,25 +1,41 @@
 .container{
     padding: 5%;
-    width: 70%;
+    width: 80%;
     margin: auto;
 }
 img{
-    width: 90%;
+    width: 100%;
     margin: auto;
+    border: 3px solid rgb(180, 153, 0);
 }
 h2{
     text-align: center;
-    color: red;
+    color: rgb(161, 2, 2);
+    margin-left: 80px;
 }
 .task{
-    border: 4px solid rgb(2, 161, 153);
+    border: 1px solid rgb(161, 2, 2);
     margin: 2%;
     padding: 5%;
     background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 }
+
+
 h1{
     text-align: center;
+    color: green;
+}
+.heading{
+    color: #00355a;;
+    font-size: 50px;
 }
 body{
-    background-color: rgb(154 255 220);
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(195 205 201);
+}
+li a{
+    font-size: 26px;
+    color: rgb(161, 2, 2);
 }
