@@ -1,0 +1,25 @@
+.container{
+    padding: 5%;
+    width: 70%;
+    margin: auto;
+}
+img{
+    width: 90%;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+.task{
+    border: 4px solid rgb(2, 161, 153);
+    margin: 2%;
+    padding: 5%;
+    background-color: white;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(154 255 220);
+}
